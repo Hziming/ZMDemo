@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dvInfo</key>
+	<dict>
+		<key>headImg</key>
+		<string>user_img/20170104/1483520931564136237.jpg</string>
+		<key>id</key>
+		<integer>1</integer>
+		<key>info</key>
+		<string>放 i 都是 v 看见仨发多少发多少分撒</string>
+		<key>nickName</key>
+		<string>领情</string>
+	</dict>
+	<key>list</key>
+	<array>
+		<dict>
+			<key>content</key>
+			<string>Zai wen to juZai wen to juZai wen to juZai wen to juZai wen to juZai wen to juZai wen to juZai wen to juZai wen to juZai wen to ju</string>
+			<key>createTime</key>
+			<string>2017-01-11 10:11:01</string>
+			<key>id</key>
+			<integer>11</integer>
+			<key>nickName</key>
+			<string>Nick</string>
+			<key>userId</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>Dead as</string>
+			<key>createTime</key>
+			<string>2017-01-11 15:59:46</string>
+			<key>id</key>
+			<integer>12</integer>
+			<key>nickName</key>
+			<string>Nick</string>
+			<key>userId</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>333333333333</string>
+			<key>createTime</key>
+			<string>2017-01-11 16:02:28</string>
+			<key>id</key>
+			<integer>13</integer>
+			<key>nickName</key>
+			<string>Nick</string>
+			<key>userId</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>result</key>
+	<string>OK</string>
+</dict>
+</plist>

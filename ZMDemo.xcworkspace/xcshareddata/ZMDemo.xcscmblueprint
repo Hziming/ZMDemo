@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "57533F9A5D915CE116C4FA9B573891024F1F6464",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2E5343A97FECBEA6CCEC019E0BA9A0B8F4E4085D" : 9223372036854775807,
+    "57533F9A5D915CE116C4FA9B573891024F1F6464" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2D284C46-F7B9-49FB-BF4B-636247792608",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2E5343A97FECBEA6CCEC019E0BA9A0B8F4E4085D" : "ZMDemo\/ZMDemo\/",
+    "57533F9A5D915CE116C4FA9B573891024F1F6464" : "ZMDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZMDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZMDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hziming\/ZMDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E5343A97FECBEA6CCEC019E0BA9A0B8F4E4085D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hziming\/ZMDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57533F9A5D915CE116C4FA9B573891024F1F6464"
+    }
+  ]
+}

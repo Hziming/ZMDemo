@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>list</key>
+	<array>
+		<dict>
+			<key>headImg</key>
+			<string>user_img/20170104/1483520931564136237.jpg</string>
+			<key>id</key>
+			<integer>1</integer>
+			<key>ifSubscribe</key>
+			<integer>1</integer>
+			<key>info</key>
+			<string>放 i 都是 v 看见仨发多少发多少分撒</string>
+			<key>name</key>
+			<string>领情</string>
+		</dict>
+	</array>
+	<key>result</key>
+	<string>OK</string>
+</dict>
+</plist>
