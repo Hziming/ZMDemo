@@ -69,7 +69,7 @@
 #define kFoot  UICollectionElementKindSectionFooter
 
 
-#define K_TestUrl           @"http://www.qinto.com/wap/index.php?ctl=article_cate&act=api_app_getarticle_cate&num=1&p=1"
+#define K_TestUrl           @"http://www.baidu.com"
 /*************************************** NSUserDefaultsKey********************************************/
 
 

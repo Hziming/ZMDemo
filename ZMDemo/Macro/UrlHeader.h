@@ -9,7 +9,7 @@
 #ifndef UrlHeader_h
 #define UrlHeader_h
 
-#define K_IMAGE_API                   @"http://106.14.82.2:8080/img/"
+#define K_IMAGE_API                   @"http://106.14.82.XXX:8080/img/"
 
 
 
